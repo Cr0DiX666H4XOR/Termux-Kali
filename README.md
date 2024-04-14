@@ -11,6 +11,4 @@ Differences from original:
 ### How to use
 Simply copy and paste this code to Termux command line to install Kali Linux:<br/>
 ```$pkg install wget proot -y && wget https://raw.githubusercontent.com/Cr0DiX666H4XOR/Termux-Kali/master/InstallKali.sh && bash InstallKali.sh
-```
-
 After installing run ```./start-kali.sh``` to launch Kali.
